@@ -114,7 +114,7 @@ terraform init
 
 ### 3. Configure variables
 
-Create `terraform.tfvars` (DO NOT COMMIT):
+Create `terraform.tfvars`:
 
 ```
 region         = "ap-south-1"
